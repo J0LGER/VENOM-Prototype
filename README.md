@@ -1,6 +1,6 @@
-#:: :: :::WELCOME TO VENOM:: :: ::
+# :: :: :::WELCOME TO VENOM:: :: ::
 
-##Installation 
+## Installation 
 Installing MongoDB 
 ```bash 
 wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | sudo apt-key add -
